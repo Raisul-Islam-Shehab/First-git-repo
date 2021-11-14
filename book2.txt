@@ -1,1 +1,1 @@
-This is number two book for git commit. I'm changing it now.
+This is number two book for git commit. I'm changing it now. I changed it.
